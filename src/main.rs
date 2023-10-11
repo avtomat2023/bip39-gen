@@ -1,7 +1,3 @@
-// [dependencies]
-// getrandom = "0.2.10"
-// sha2 = "0.10.8"
-
 use getrandom::getrandom;
 use sha2::{Sha256, Digest};
 
